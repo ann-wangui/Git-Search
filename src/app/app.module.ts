@@ -13,7 +13,8 @@ import { UserRepositoriesComponent } from './user-repositories/user-repositories
     AppComponent,
     UserRepositoriesComponent,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
+
   ],
   imports: [
     BrowserModule,
