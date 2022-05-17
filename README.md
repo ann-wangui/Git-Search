@@ -32,12 +32,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
  There are no known bags
 
-<!-- ## Support and Contact DetailS
+## Support and Contact DetailS
 
 Feel free to call me or email me with respective contacts detail:
 
 +254743715669
-wanguia822@gmail.com -->
+wanguia822@gmail.com
 
 
 # License
