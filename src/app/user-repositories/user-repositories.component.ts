@@ -16,7 +16,7 @@ export class UserRepositoriesComponent implements OnInit {
     followers: '',
     following: '',
     email: '',
-    // bio: '',
+    bio: '',
     created_at: ''};
     repos: any;
     username!: string;
