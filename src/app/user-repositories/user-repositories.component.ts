@@ -1,5 +1,5 @@
 import { Component, OnInit,  } from '@angular/core';
-import { UserRepositoriesService } from '../services/user-repositories.service';   
+import { UserRepositoriesService } from 'src/user-repositories.service';
 
 @Component({
   selector: 'app-user-repositories',
