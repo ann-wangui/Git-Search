@@ -10,7 +10,7 @@ export class UserRepositoriesComponent implements OnInit {
   profile: any = { login: '',
     company: '',
     location: '',
-    // avatar_url: '',
+    avatar_url: '',
     public_repos: '',
     public_gist: '',
     followers: '',
